@@ -133,23 +133,6 @@ Visit `http://localhost:5173` to view the application.
 
 </div>
 
-## <span style="color: #4ECDC4; font-size: 1.8em; display: block; margin: 30px 0 20px; text-align: center;">👨‍💻 Developer</span>
-    <h2 style="color: #E2E8F0; margin-top: 20px; font-size: 1.8em; font-weight: 600;">WaynePopi</h2>
-    <p style="color: #A0AEC0; margin: 10px 0; font-size: 1.1em;">Full Stack Developer</p>
-    <div style="display: flex; gap: 15px; margin-top: 15px;">
-      <a href="#" style="color: #E2E8F0; font-size: 1.5em; transition: color 0.3s ease;">
-        <i class="fab fa-github"></i>
-      </a>
-      <a href="#" style="color: #E2E8F0; font-size: 1.5em; transition: color 0.3s ease;">
-        <i class="fab fa-linkedin"></i>
-      </a>
-      <a href="#" style="color: #E2E8F0; font-size: 1.5em; transition: color 0.3s ease;">
-        <i class="fab fa-twitter"></i>
-      </a>
-    </div>
-  </div>
-</div>
-
 <hr style="background: linear-gradient(to right, #FF6B6B, #4ECDC4); height: 2px; border: none;">
 
 ## <span style="color: #FF6B6B;">📄 License</span>
